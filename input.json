@@ -1,0 +1,10 @@
+{
+  "urls": [
+    "sf"
+  ],
+  "maxEventsPerUrl": 10,
+  "includeFeaturedGuests": false,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
